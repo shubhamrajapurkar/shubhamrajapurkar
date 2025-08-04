@@ -14,11 +14,11 @@
 
 ---
 
-## ⬇️ About Me
+<h2>⬇ About Me</h2>
 
 - 💡 Passionate about building user-centric, responsive web applications  
-- 🔭 Currently learning: **System Design & Advanced React Patterns**  
-- 🎯 Goal: **To become a Full Stack SDE at a product-based company**  
+- 🔭 Currently learning: *System Design & Advanced React Patterns*  
+- 🎯 Goal: *To become a Full Stack SDE at a product-based company*  
 - 📚 Solving DSA problems on LeetCode to sharpen problem-solving skills  
 - 📖 Fun Fact: I enjoy debugging as much as I enjoy binge-watching anime 😄
 
@@ -40,7 +40,7 @@
 
 ---
 
-## ⚙️ Tech Stack & Tools
+## ⚙ Tech Stack & Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
@@ -71,66 +71,16 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🧩 Featured Projects
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shubhamrajapurkar&theme=dracula&no-bg=true&no-frame=true" />
-</p>
-
----
-
-## 💼 Featured Projects
-
-### 🔗 [Mind Link](https://github.com/shubhamrajapurkar/Mind-Link)
-> A real-time collaborative IDE for developers.
-
-![React](https://img.shields.io/badge/Frontend-React-blue?logo=react)
-![Node.js](https://img.shields.io/badge/Backend-Node.js-green?logo=node.js)
-![Liveblocks](https://img.shields.io/badge/Collaboration-Liveblocks-orange)
-
----
-
-### 🔗 [OCR Answer Script Parser](https://github.com/shubhamrajapurkar/ocr-script-parser)
-> Converts handwritten answer PDFs into editable, structured PDFs.
-
-![OCR](https://img.shields.io/badge/OCR-Tesseract-blueviolet)
-![Express.js](https://img.shields.io/badge/API-Express.js-yellow)
-
----
-
-### 🔗 [AI Patient Assistant](https://github.com/shubhamrajapurkar/ai-patient-assistant)
-> An intelligent medical assistant using Whisper, LLaMA2, Bark & IndicTrans.
-
-![React](https://img.shields.io/badge/Frontend-React-blue?logo=react)
-![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen)
-![AI](https://img.shields.io/badge/LLM-Mixtral-purple)
-
----
-
-## 🧠 Currently Exploring
-
-- ✨ AI Integration in Web Apps  
-- 📈 System Design  
-- 💬 Real-time Collaboration Tools (Liveblocks, CRDTs)  
-- 🔒 OAuth2, JWT, and secure auth flows
-
----
-
-## 🤝 Let’s Collaborate
-
-I'm always up for working on exciting projects — especially in:
-
-- 🔥 React / MERN Stack
-- 🤖 AI-integrated Web Apps
-- ✨ UI/UX focused Frontend Engineering
-
-If you have an idea, feel free to reach out!
+> Coming soon... 👀  
+> Stay tuned for *Mind Link, **OCR to PDF Converter, and **AI Patient Assistant*!
 
 ---
 
 ## 🔥 Quote I Live By
 
-> *"Code is like humor. When you have to explain it, it’s bad."* — Cory House
+> "Code is like humor. When you have to explain it, it’s bad." — Cory House
 
 ---
 
@@ -138,6 +88,4 @@ If you have an idea, feel free to reach out!
   <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="200" />
 </p>
 
-<p align="center">
-  <b>Thanks for visiting my profile! Let’s build something awesome together 💙</b>
-</p>
+Thanks for visiting my profile! Let’s build something awesome together 💙
