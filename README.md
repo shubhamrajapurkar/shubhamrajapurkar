@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | MERN Stack Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Transforming+ideas+into+code...; React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Striving+to+craft+better+UIs+every+day!+" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Transforming+ideas+into+code...;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Striving+to+craft+better+UIs+every+day!+" alt="Typing SVG" />
 </p>
 
 ---
